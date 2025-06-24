@@ -27,7 +27,6 @@
       "startDate": "2021-11-30",
       "highlights": [],
       "summary": "• Developed and maintained HR-software for customers.\n• Improved codebase for readability and ease of implementing new features.\n• Created internal tools for consult project visualization.",
-      "url": "https://www.linkedin.com/company/compile-solutions-oy/",
       "location": "Helsinki, Uusimaa, Finland"
     },
     {
@@ -36,8 +35,7 @@
       "startDate": "2021-01-31",
       "endDate": "2021-11-30",
       "highlights": [],
-      "summary": "• Implemented CI/CD tools for testing, versioning, and deployment, enhancing team productivity.\n• Integrated IAM systems and improved local development environments for efficiency.\n• Increased team efficiency by getting rid of the heavy local environments that used virtual machines.",
-      "url": "https://www.linkedin.com/company/digia_5119/"
+      "summary": "• Implemented CI/CD tools for testing, versioning, and deployment, enhancing team productivity.\n• Integrated IAM systems and improved local development environments for efficiency.\n• Increased team efficiency by getting rid of the heavy local environments that used virtual machines."
     },
     {
       "name": "Elisa Automate",
@@ -46,7 +44,6 @@
       "endDate": "2020-11-30",
       "highlights": [],
       "summary": "• Developed frontend and backend for network operation center automations, reducing manual work and increasing efficiency.",
-      "url": "https://www.linkedin.com/company/elisa-polystar/",
       "location": "Helsinki, Southern Finland, Finland"
     },
     {
@@ -56,7 +53,6 @@
       "endDate": "2020-05-31",
       "highlights": [],
       "summary": "• Led migration from SVN to Git for team efficiency.\n• Developed REST API's for member registry software.\n• Implemented end-to-end tests for improved quality assurance.",
-      "url": "https://www.linkedin.com/company/digia_5119/",
       "location": "Helsinki Area, Finland"
     },
     {
@@ -74,7 +70,6 @@
       "endDate": "2019-04-30",
       "highlights": [],
       "summary": "• Streamlined data receiving pipelines with various microservices to handle new loads efficiently.\n• Redesigned and implemented geolocation database with experts.",
-      "url": "https://www.linkedin.com/company/statistics-finland/",
       "location": "Helsinki Area, Finland"
     },
     {
@@ -84,7 +79,6 @@
       "endDate": "2018-06-30",
       "highlights": [],
       "summary": "• Developed and maintained ERP-software as part of a scrum team.\n• Collaborated with technical support to troubleshoot and resolve customer issues promptly, ensuring high satisfaction levels.",
-      "url": "https://www.linkedin.com/company/arteroy/",
       "location": "Helsinki Area, Finland"
     },
     {
@@ -93,8 +87,7 @@
       "startDate": "2012-02-28",
       "endDate": "2012-09-30",
       "highlights": [],
-      "summary": "• Enhanced testing tools for payment terminal team, aiding in visualizing goals and milestones.\n• Collaborated in agile scrum team to improve efficiency and productivity.\n• Developed solutions to streamline processes and enhance team performance.",
-      "url": "https://www.linkedin.com/company/luottokunta/"
+      "summary": "• Enhanced testing tools for payment terminal team, aiding in visualizing goals and milestones.\n• Collaborated in agile scrum team to improve efficiency and productivity.\n• Developed solutions to streamline processes and enhance team performance."
     }
   ],
   "volunteer": [],
