@@ -141,6 +141,21 @@
   "publications": [],
   "skills": [
     {
+      "name": "Backend",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Frontend",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "DevOps",
+      "level": "",
+      "keywords": []
+    },
+    {
       "name": "English",
       "level": "",
       "keywords": []
