@@ -127,3 +127,7 @@ dist
 !.yarn/releases
 !.yarn/sdks
 !.yarn/versions
+
+# Resume files
+resume.pdf
+resume.html
