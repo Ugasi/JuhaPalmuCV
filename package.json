@@ -6,6 +6,7 @@
   },
   "dependencies": {
     "jsonresume-theme-onepage-plus": "^1.0.1",
+    "puppeteer": "^24.10.2",
     "resumed": "^6.0.0"
   }
 }
