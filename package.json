@@ -3,6 +3,7 @@
     "init": "resumed init"
   },
   "dependencies": {
+    "jsonresume-theme-onepage-plus": "^1.0.1",
     "resumed": "^6.0.0"
   }
 }
