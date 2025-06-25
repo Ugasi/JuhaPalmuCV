@@ -142,8 +142,17 @@
   "skills": [
     {
       "name": "Backend",
-      "level": "",
-      "keywords": []
+      "level": "Senior",
+      "keywords": [
+        "C#",
+        ".NET Framework",
+        "Entity Framework",
+        "Java",
+        "Spring",
+        "Hibernate",
+        "SQL",
+        "Docker"
+      ]
     },
     {
       "name": "Frontend",
