@@ -156,8 +156,12 @@
     },
     {
       "name": "Frontend",
-      "level": "",
-      "keywords": []
+      "level": "Intermediate",
+      "keywords": [
+        "React",
+        "TypeScript",
+        "JavaScript"
+      ]
     },
     {
       "name": "DevOps",
