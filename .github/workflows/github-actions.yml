@@ -1,0 +1,22 @@
+name: CI
+run-name: ${{ github.actor }} CV
+on:
+  push:
+    tags:
+      - '[0-9]+.[0-9]+.[0-9]+'
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+      - name: Setup Node
+        uses: actions/setup-node@v4
+      - name: Build
+        run: npm install
+      - name: Generate CV Pdf
+        run: npm run pdf
+      - uses: actions/upload-artifact@v4
+        with:
+          name: resume
+          path: resume.pdf
