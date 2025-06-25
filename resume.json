@@ -89,8 +89,13 @@
       "position": "Applications Analyst",
       "startDate": "2018-06-30",
       "endDate": "2019-04-30",
-      "highlights": [],
-      "summary": "• Streamlined data receiving pipelines with various microservices to handle new loads efficiently.\n• Redesigned and implemented geolocation database with experts."
+      "highlights": [
+        "Data",
+        ".NET Framework",
+        "Streamlined data receiving pipelines with various microservices to handle new loads efficiently",
+        "Redesigned and implemented geolocation database with experts"
+      ],
+      "summary": "Worked in various internal projects, to help statistics units with their work. Developer work mostly alone, but scrum teams included specialists and architects who gave requirements for work."
     },
     {
       "name": "Arter Oy (IMS Business Solutions)",
