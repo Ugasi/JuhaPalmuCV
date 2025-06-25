@@ -42,8 +42,12 @@
       "position": "System Specialist",
       "startDate": "2021-01-31",
       "endDate": "2021-11-30",
-      "highlights": [],
-      "summary": "• Implemented CI/CD tools for testing, versioning, and deployment, enhancing team productivity.\n• Integrated IAM systems and improved local development environments for efficiency.\n• Increased team efficiency by getting rid of the heavy local environments that used virtual machines."
+      "highlights": [
+        "Implemented CI/CD tools for testing, versioning, and deployment, enhancing team productivity",
+        "Integrated IAM systems and improved local development environments for efficiency",
+        "Increased team efficiency by getting rid of the heavy local environments that used virtual machines."
+      ],
+      "summary": "Worked in a scrum team, with main focus on improving work of other teams by implementing automation solutions and improving other slow development practices"
     },
     {
       "name": "Elisa Automate",
