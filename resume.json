@@ -43,11 +43,12 @@
       "startDate": "2021-01-31",
       "endDate": "2021-11-30",
       "highlights": [
+        "Java",
+        "Docker",
         "Implemented CI/CD tools for testing, versioning, and deployment, enhancing team productivity",
-        "Integrated IAM systems and improved local development environments for efficiency",
         "Increased team efficiency by getting rid of the heavy local environments that used virtual machines"
       ],
-      "summary": "Worked in a scrum team, with main focus on improving work of other teams by implementing automation solutions and improving other slow development practices"
+      "summary": "Worked in a scrum team, with main focus on improving work of other teams by implementing automation solutions and improving other slow development practices."
     },
     {
       "name": "Elisa Automate",
@@ -59,7 +60,7 @@
         "React",
         "Developed frontend and backend for network operation center automations, reducing manual work and increasing efficiency"
       ],
-      "summary": "Worked as a part of international scrum team, focusing on providing automation solutions for foreign teleoperators"
+      "summary": "Worked as a part of international scrum team, focusing on providing automation solutions for foreign teleoperators."
     },
     {
       "name": "Digia Plc",
@@ -71,7 +72,7 @@
         "Developed REST API's for member registry software",
         "Implemented end-to-end tests for improved quality assurance"
       ],
-      "summary": "Backend focused role, with a DevOps twist. Helped migrate version control from SVN to Git, and CI/CD from Bamboo to GitLab CI/CD. Wrote documentation and guides to ensure successful onboarding for multiple teams, with little downtime"
+      "summary": "Backend focused role, with a DevOps twist. Helped migrate version control from SVN to Git, and CI/CD from Bamboo to GitLab CI/CD. Wrote documentation and guides to ensure successful onboarding for multiple teams, with little downtime."
     },
     {
       "name": "Hintaseuranta",
