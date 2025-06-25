@@ -115,8 +115,12 @@
       "position": "Järjestelmäasiantuntija",
       "startDate": "2012-02-28",
       "endDate": "2012-09-30",
-      "highlights": [],
-      "summary": "• Enhanced testing tools for payment terminal team, aiding in visualizing goals and milestones.\n• Collaborated in agile scrum team to improve efficiency and productivity.\n• Developed solutions to streamline processes and enhance team performance."
+      "highlights": [
+        "Created a wallboard solution to gather data from various systems and display them in an easily readable fashion",
+        "Enhanced testing tools for payment terminal team, making it possible to record actual payment transactions and run them again without manual work",
+        "Developed internal solutions to streamline processes and enhance team performance"
+      ],
+      "summary": "Hired from school to work in a payment terminal scrum team. My goal was to take on tasks that would highly benefit the team, but the team itself did not have the time for."
     }
   ],
   "volunteer": [],
