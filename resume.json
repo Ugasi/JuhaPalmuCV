@@ -99,17 +99,16 @@
       "summary": "Worked in various internal projects, to help statistics units with their work. Developer work mostly alone, but scrum teams included specialists and architects who gave requirements for work."
     },
     {
-      "name": "Arter Oy (IMS Business Solutions)",
+      "name": "Arter Oy",
       "position": "Software Developer",
       "startDate": "2017-08-31",
       "endDate": "2018-06-30",
       "highlights": [
         "Java",
         "React",
-        "Developed and maintained ERP-software",
         "Fixed various bottlenecks affecting customers with high amounts of users and data, improving performance by a huge margin"
       ],
-      "summary": "Worked as a full stack developer in an inhouse software team. Worked closely with technical support to troubleshoot and resolve customer issues promptly, ensuring high satisfaction levels"
+      "summary": "Worked as a full stack developer in an inhouse software team, developing ERP software IMS. Worked closely with technical support to troubleshoot and resolve customer issues promptly, ensuring high satisfaction levels"
     },
     {
       "name": "Luottokunta (Nets)",
