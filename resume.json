@@ -165,8 +165,16 @@
     },
     {
       "name": "DevOps",
-      "level": "",
-      "keywords": []
+      "level": "Senior",
+      "keywords": [
+        "Jenkins",
+        "GitHub Action",
+        "Gitlab CI",
+        "Linux",
+        "AWS",
+        "Infrastructure as code",
+        "Git"
+      ]
     },
     {
       "name": "English",
