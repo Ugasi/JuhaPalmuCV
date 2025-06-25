@@ -17,7 +17,7 @@ jobs:
         run: npm install
       - name: Generate CV Pdf
         run: npm run pdf
-      - uses: actions/upload-artifact@v4
+      - name: Release
+        uses: softprops/action-gh-release@v2
         with:
-          name: resume
-          path: resume.pdf
+          files: resume.pdf
