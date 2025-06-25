@@ -66,8 +66,12 @@
       "position": "Software Developer",
       "startDate": "2019-04-30",
       "endDate": "2020-05-31",
-      "highlights": [],
-      "summary": "• Led migration from SVN to Git for team efficiency.\n• Developed REST API's for member registry software.\n• Implemented end-to-end tests for improved quality assurance."
+      "highlights": [
+        "Led version control and CI/CD tool migration",
+        "Developed REST API's for member registry software",
+        "Implemented end-to-end tests for improved quality assurance."
+      ],
+      "summary": "Backend focused role, with a DevOps twist. Helped migrate version control from SVN to Git, and CI/CD from Bamboo to GitLab CI/CD. Wrote documentation and guides to ensure successful onboarding for multiple teams, with little downtime"
     },
     {
       "name": "Hintaseuranta",
