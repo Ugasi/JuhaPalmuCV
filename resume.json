@@ -31,9 +31,9 @@
       "position": "Software Specialist",
       "startDate": "2021-11-30",
       "highlights": [
-        "Developed and maintained HR-software for customers",
+        "Developed and maintained HR-software for customer, working with .NET technologies",
         "Improved codebase for readability and ease of implementing new features",
-        "Created internal tools for consultant project visualization"
+        "Created internal tools for consultant project visualization, using React and GraphQL"
       ],
       "summary": "Worked in internal and customer projects. Customer projects were highly backend focused, with occasional DevOps work with Jenkins. Internal projects were with a frontend focus, and deploying solutions to AWS."
     },
