@@ -188,15 +188,6 @@
       ]
     },
     {
-      "name": "Frontend",
-      "level": "Intermediate",
-      "keywords": [
-        "React",
-        "TypeScript",
-        "JavaScript"
-      ]
-    },
-    {
       "name": "DevOps",
       "level": "Senior",
       "keywords": [
@@ -207,6 +198,15 @@
         "AWS",
         "Infrastructure as code",
         "Git"
+      ]
+    },
+    {
+      "name": "Frontend",
+      "level": "Intermediate",
+      "keywords": [
+        "React",
+        "TypeScript",
+        "JavaScript"
       ]
     }
   ],
