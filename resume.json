@@ -30,8 +30,12 @@
       "name": "Compile Oy",
       "position": "Software Specialist",
       "startDate": "2021-11-30",
-      "highlights": [],
-      "summary": "• Developed and maintained HR-software for customers.\n• Improved codebase for readability and ease of implementing new features.\n• Created internal tools for consult project visualization."
+      "highlights": [
+        "Developed and maintained HR-software for customers",
+        "Improved codebase for readability and ease of implementing new features",
+        "Created internal tools for consult project visualization."
+      ],
+      "summary": "Worked as a software consultant in customer and internal projects, implementing scrum methodologies"
     },
     {
       "name": "Digia Plc",
