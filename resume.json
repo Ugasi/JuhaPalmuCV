@@ -102,8 +102,13 @@
       "position": "Software Developer",
       "startDate": "2017-08-31",
       "endDate": "2018-06-30",
-      "highlights": [],
-      "summary": "• Developed and maintained ERP-software as part of a scrum team.\n• Collaborated with technical support to troubleshoot and resolve customer issues promptly, ensuring high satisfaction levels."
+      "highlights": [
+        "Java",
+        "React",
+        "Developed and maintained ERP-software",
+        "Fixed various bottlenecks affecting customers with high amounts of users and data, improving performance by a huge margin"
+      ],
+      "summary": "Worked as a full stack developer in an inhouse software team. Worked closely with technical support to troubleshoot and resolve customer issues promptly, ensuring high satisfaction levels"
     },
     {
       "name": "Luottokunta",
