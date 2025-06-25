@@ -2,7 +2,7 @@
   "scripts": {
     "init": "resumed init",
     "render": "resumed render --theme jsonresume-theme-onepage-plus",
-    "pdf": "resumed export --theme jsonresume-theme-onepage-plus"
+    "pdf": "resumed export --theme jsonresume-theme-onepage-plus --output JuhaPalmuCV.pdf"
   },
   "dependencies": {
     "jsonresume-theme-onepage-plus": "^1.0.1",
