@@ -78,8 +78,11 @@
       "position": "Tekninen Tuoteylläpitäjä",
       "startDate": "2015-09-30",
       "endDate": "2020-05-31",
-      "highlights": [],
-      "summary": "• Implemented web scrapers to fetch customer pricing data for comparison, enabling users to find the best prices for products.\n• Developed rules for automatic product categorization, to reduce manual labor."
+      "highlights": [
+        "Implemented web scrapers to fetch customer pricing data for comparison, enabling users to find the best prices for products",
+        "Developed rules for automatic product categorization, to reduce manual labor"
+      ],
+      "summary": "Solo developer role, with freedom to choose how to approach challenges on my own."
     },
     {
       "name": "Tilastokeskus - Statistics Finland",
