@@ -33,7 +33,7 @@
       "highlights": [
         "Developed and maintained HR-software for customers",
         "Improved codebase for readability and ease of implementing new features",
-        "Created internal tools for consult project visualization."
+        "Created internal tools for consult project visualization"
       ],
       "summary": "Worked as a software consultant in customer and internal projects, implementing scrum methodologies"
     },
@@ -45,7 +45,7 @@
       "highlights": [
         "Implemented CI/CD tools for testing, versioning, and deployment, enhancing team productivity",
         "Integrated IAM systems and improved local development environments for efficiency",
-        "Increased team efficiency by getting rid of the heavy local environments that used virtual machines."
+        "Increased team efficiency by getting rid of the heavy local environments that used virtual machines"
       ],
       "summary": "Worked in a scrum team, with main focus on improving work of other teams by implementing automation solutions and improving other slow development practices"
     },
@@ -69,7 +69,7 @@
       "highlights": [
         "Led version control and CI/CD tool migration",
         "Developed REST API's for member registry software",
-        "Implemented end-to-end tests for improved quality assurance."
+        "Implemented end-to-end tests for improved quality assurance"
       ],
       "summary": "Backend focused role, with a DevOps twist. Helped migrate version control from SVN to Git, and CI/CD from Bamboo to GitLab CI/CD. Wrote documentation and guides to ensure successful onboarding for multiple teams, with little downtime"
     },
