@@ -54,8 +54,12 @@
       "position": "Software Developer",
       "startDate": "2020-06-30",
       "endDate": "2020-11-30",
-      "highlights": [],
-      "summary": "• Developed frontend and backend for network operation center automations, reducing manual work and increasing efficiency."
+      "highlights": [
+        "Kotlin",
+        "React",
+        "Developed frontend and backend for network operation center automations, reducing manual work and increasing efficiency"
+      ],
+      "summary": "Worked as a part of international scrum team, focusing on providing automation solutions for foreign teleoperators"
     },
     {
       "name": "Digia Plc",
