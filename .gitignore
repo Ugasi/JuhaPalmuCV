@@ -129,5 +129,5 @@ dist
 !.yarn/versions
 
 # Resume files
-resume.pdf
-resume.html
+*.pdf
+*.html
