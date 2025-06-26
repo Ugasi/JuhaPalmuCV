@@ -7,7 +7,7 @@
     "email": "juhamikaelpalmu@gmail.com",
     "phone": "+358415387285",
     "url": "https://github.com/Ugasi",
-    "summary": "I'm a full stack engineer with 10 years of experience mostly focusing in backend side of things, but have no problem tackling front end from time to time. I thrive to learn new technologies and practices. Sustainability and maintainability are extremely close to my heart in terms of coding.",
+    "summary": "I'm a full stack engineer with 10 years of experience, primarily focused on backend development, though I also handle frontend tasks when needed. I'm passionate about learning new technologies and best practices. Sustainability and maintainability are core values in my approach to coding.",
     "location": {
       "countryCode": "FI",
       "city": "Helsinki"
@@ -31,11 +31,11 @@
       "position": "Software Specialist",
       "startDate": "2021-11-30",
       "highlights": [
-        "Developed and maintained HR-software for customer, working with .NET technologies",
-        "Improved codebase for readability and ease of implementing new features",
-        "Created internal tools for consultant project visualization, using React and GraphQL"
+        "Developed and maintained HR software for a client, using .NET technologies",
+        "Improved the codebase for readability and ease of feature implementation",
+        "Created internal tools for visualizing consultant projects, using React and GraphQL"
       ],
-      "summary": "Worked in internal and customer projects. Customer projects were highly backend focused, with occasional DevOps work with Jenkins. Internal projects were with a frontend focus with deploying solutions to AWS."
+      "summary": "Worked on both internal and client projects. Client projects were primarily backend-focused, with occasional DevOps work using Jenkins. Internal projects involved frontend development and deploying solutions to AWS."
     },
     {
       "name": "Digia",
@@ -46,9 +46,9 @@
         "Java",
         "Docker",
         "Implemented CI/CD tools for testing, versioning, and deployment, enhancing team productivity",
-        "Increased team efficiency by getting rid of the heavy local environments that used virtual machines"
+        "Improved team efficiency by eliminating heavy local environments that relied on virtual machines"
       ],
-      "summary": "Worked in a scrum team, with main focus on improving work of other teams by implementing automation solutions and improving other slow development practices."
+      "summary": "Worked in a Scrum team, primarily focused on enhancing the work of other teams by implementing automation solutions and improving slow development practices."
     },
     {
       "name": "Elisa Automate",
@@ -58,9 +58,9 @@
       "highlights": [
         "Kotlin",
         "React",
-        "Developed frontend and backend for network operation center automations, reducing manual work and increasing efficiency"
+        "Developed frontend and backend features for network operations center automations, reducing manual tasks and increasing efficiency"
       ],
-      "summary": "Worked as a part of international scrum team, focusing on providing automation solutions for foreign teleoperators."
+      "summary": "Part of an international Scrum team, focusing on automation solutions for foreign telecom operators."
     },
     {
       "name": "Digia",
@@ -69,10 +69,10 @@
       "endDate": "2020-05-31",
       "highlights": [
         "Led version control and CI/CD tool migration",
-        "Developed REST API's for member registry software",
-        "Implemented end-to-end tests for improved quality assurance"
+        "Developed REST APIs for member registry software",
+        "Implemented end-to-end tests to improve quality assurance"
       ],
-      "summary": "Backend focused role, with a DevOps twist. Helped migrate version control from SVN to Git, and CI/CD from Bamboo to GitLab CI/CD. Wrote documentation and guides to ensure successful onboarding for multiple teams, with little downtime."
+      "summary": "A backend-focused role with a DevOps component. Migrated version control from SVN to Git, and CI/CD from Bamboo to GitLab CI/CD. Created documentation and guides to support onboarding across multiple teams with minimal downtime."
     },
     {
       "name": "Hintaseuranta",
@@ -80,10 +80,10 @@
       "startDate": "2015-09-30",
       "endDate": "2020-05-31",
       "highlights": [
-        "Implemented web scrapers to fetch customer pricing data for comparison, enabling users to find the best prices for products",
-        "Developed rules for automatic product categorization, to reduce manual labor"
+        "Developed web scrapers to retrieve customer pricing data, helping users find the best product prices",
+        "Created rules for automatic product categorization to reduce manual labor"
       ],
-      "summary": "Solo developer role, with freedom to choose how to approach challenges on my own. Type of work depended on if the actual customer had provided product data, or if we had to use scraping to get it ourselves."
+      "summary": "Worked as a solo developer, independently solving challenges. Tasks varied based on whether the client provided product data or if it needed to be scraped."
     },
     {
       "name": "Tilastokeskus - Statistics Finland",
@@ -93,10 +93,10 @@
       "highlights": [
         "Data",
         ".NET Framework",
-        "Streamlined data receiving pipelines with various microservices to handle new loads efficiently",
-        "Redesigned and implemented geolocation database with experts"
+        "Streamlined data intake pipelines using microservices to handle increased load efficiently",
+        "Redesigned and implemented a geolocation database in collaboration with experts"
       ],
-      "summary": "Worked in various internal projects, to help statistics units with their work. Developer work mostly alone, but scrum teams included specialists and architects who gave requirements for work."
+      "summary": "Worked on internal projects supporting statistical units. Mostly developed independently, with input from Scrum teams including specialists and architects who provided requirements."
     },
     {
       "name": "Arter Oy",
@@ -106,9 +106,9 @@
       "highlights": [
         "Java",
         "React",
-        "Fixed various bottlenecks affecting customers with high amounts of users and data, improving performance by a huge margin"
+        "Resolved performance bottlenecks affecting high-usage customers, resulting in significant improvements"
       ],
-      "summary": "Worked as a full stack developer in an inhouse software team, developing ERP software IMS. Worked closely with technical support to troubleshoot and resolve customer issues promptly, ensuring high satisfaction levels."
+      "summary": "Worked as a full stack developer in an in-house ERP software team. Collaborated closely with technical support to promptly resolve customer issues, ensuring high satisfaction."
     },
     {
       "name": "Luottokunta (Nets)",
@@ -116,11 +116,11 @@
       "startDate": "2012-02-28",
       "endDate": "2012-09-30",
       "highlights": [
-        "Created a wallboard solution to gather data from various systems and display them in an easily readable fashion",
-        "Enhanced testing tools for payment terminal team, making it possible to record actual payment transactions and run them again without manual work",
-        "Developed internal solutions to streamline processes and enhance team performance"
+        "Created a wallboard solution to aggregate and display data from various systems",
+        "Enhanced testing tools for the payment terminal team, enabling replay of real transactions without manual work",
+        "Developed internal solutions to streamline processes and improve team performance"
       ],
-      "summary": "Hired from school to work in a payment terminal scrum team. My goal was to take on tasks that would highly benefit the team, but the team itself did not have the time for."
+      "summary": "Hired from school to join a payment terminal Scrum team. Took on tasks that brought high value but lacked time allocation within the team."
     }
   ],
   "volunteer": [],
@@ -192,11 +192,11 @@
       "level": "Senior",
       "keywords": [
         "Jenkins",
-        "GitHub Action",
+        "GitHub Actions",
         "GitLab CI",
         "Linux",
         "AWS",
-        "Infrastructure as code",
+        "Infrastructure as Code",
         "Git"
       ]
     },
