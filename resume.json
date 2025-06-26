@@ -127,7 +127,7 @@
   "education": [
     {
       "institution": "Haaga-Helia University of Applied Sciences",
-      "area": "Computer Software Engineering",
+      "area": "Business Information Technology",
       "studyType": "Bachelor’s Degree",
       "startDate": "2013-12-31",
       "endDate": "2019-12-31",
@@ -136,8 +136,8 @@
     },
     {
       "institution": "Suomen Liikemiesten Kauppaopisto",
-      "area": "Computer Software Engineering",
-      "studyType": "Vocational Qualification in Business Information Technology",
+      "area": "Business Information Technology",
+      "studyType": "Vocational Qualification",
       "startDate": "2009-12-31",
       "endDate": "2012-12-31",
       "score": "",
