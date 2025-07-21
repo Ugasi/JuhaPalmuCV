@@ -184,7 +184,10 @@
         "Spring",
         "Hibernate",
         "SQL",
-        "Docker"
+        "Docker",
+        "Python",
+        "Flask",
+        "FastAPI"
       ]
     },
     {
