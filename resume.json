@@ -30,8 +30,12 @@
       "name": "Suomalainen Kirjakauppa Oy",
       "position": "Software Developer",
       "startDate": "2025-11-03",
-      "highlights": [],
-      "summary": ""
+      "endDate": "2026-04-20",
+      "highlights": [
+        "Developed internal tooling and environments for Suomalainen Book Store",
+        "Backend development using .NET stack in Azure and UpCloud"
+      ],
+      "summary": "Backend development with cloud and CI/CD"
     },
     {
       "name": "Compile Oy",
