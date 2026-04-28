@@ -205,11 +205,13 @@
       "name": "DevOps",
       "level": "Senior",
       "keywords": [
-        "Jenkins",
         "GitHub Actions",
         "GitLab CI",
+        "Kubernetes",
         "Linux",
         "AWS",
+        "Azure",
+        "UpCloud",
         "Infrastructure as Code",
         "Git"
       ]
