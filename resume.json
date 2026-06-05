@@ -1,253 +1,253 @@
 {
-  "$schema": "https://raw.githubusercontent.com/jsonresume/resume-schema/v1.0.0/schema.json",
-  "basics": {
-    "name": "Juha Palmu",
-    "label": "Full Stack Developer",
-    "image": "",
-    "email": "juhamikaelpalmu@gmail.com",
-    "phone": "+358415387285",
-    "url": "https://github.com/Ugasi",
-    "summary": "I'm a full stack engineer with 10 years of experience, primarily focused on backend development, though I also handle frontend tasks when needed. I'm passionate about learning new technologies and best practices. Sustainability and maintainability are core values in my approach to coding.",
-    "location": {
-      "countryCode": "FI",
-      "city": "Helsinki"
+    "$schema": "https://raw.githubusercontent.com/jsonresume/resume-schema/v1.0.0/schema.json",
+    "basics": {
+        "name": "Juha Palmu",
+        "label": "Full Stack Developer",
+        "image": "",
+        "email": "juhamikaelpalmu@gmail.com",
+        "phone": "+358415387285",
+        "url": "https://github.com/Ugasi",
+        "summary": "I'm a full stack engineer with 10 years of experience, primarily focused on backend development, though I also handle frontend tasks when needed. I'm passionate about learning new technologies and best practices. Sustainability and maintainability are core values in my approach to coding.",
+        "location": {
+            "countryCode": "FI",
+            "city": "Helsinki"
+        },
+        "profiles": [
+            {
+                "network": "LinkedIn",
+                "username": "juha-palmu",
+                "url": "https://www.linkedin.com/in/juha-palmu/"
+            },
+            {
+                "network": "GitHub",
+                "username": "Ugasi",
+                "url": "https://github.com/Ugasi/"
+            }
+        ]
     },
-    "profiles": [
-      {
-        "network": "LinkedIn",
-        "username": "juha-palmu",
-        "url": "https://www.linkedin.com/in/juha-palmu/"
-      },
-      {
-        "network": "GitHub",
-        "username": "Ugasi",
-        "url": "https://github.com/Ugasi/"
-      }
-    ]
-  },
-  "work": [
-    {
-      "name": "SD Worx Finland Oy",
-      "position": "Software Developer",
-      "startDate": "2026-06-17",
-      "highlights": [],
-      "summary": ""
-    },
-    {
-      "name": "Suomalainen Kirjakauppa Oy",
-      "position": "Software Developer",
-      "startDate": "2025-11-03",
-      "highlights": [
-        "Developed internal tooling and environments for Suomalainen Book Store",
-        "Backend development using .NET stack in Azure and UpCloud"
-      ],
-      "summary": "Backend development with cloud and CI/CD"
-    },
-    {
-      "name": "Compile Oy",
-      "position": "Software Specialist",
-      "startDate": "2021-11-30",
-      "endDate": "2025-02-28",
-      "highlights": [
-        "Developed and maintained HR software for a client, using .NET technologies",
-        "Improved the codebase for readability and ease of feature implementation",
-        "Created internal tools for visualizing consultant projects, using React and GraphQL"
-      ],
-      "summary": "Worked on both internal and client projects. Client projects were primarily backend-focused, with occasional DevOps work using Jenkins. Internal projects involved frontend development and deploying solutions to AWS."
-    },
-    {
-      "name": "Digia",
-      "position": "System Specialist",
-      "startDate": "2021-01-31",
-      "endDate": "2021-11-30",
-      "highlights": [
-        "Java",
-        "Docker",
-        "Implemented CI/CD tools for testing, versioning, and deployment, enhancing team productivity",
-        "Improved team efficiency by eliminating heavy local environments that relied on virtual machines"
-      ],
-      "summary": "Worked in a Scrum team, primarily focused on enhancing the work of other teams by implementing automation solutions and improving slow development practices."
-    },
-    {
-      "name": "Elisa Automate",
-      "position": "Software Developer",
-      "startDate": "2020-06-30",
-      "endDate": "2020-11-30",
-      "highlights": [
-        "Kotlin",
-        "React",
-        "Developed frontend and backend features for network operations center automations, reducing manual tasks and increasing efficiency"
-      ],
-      "summary": "Part of an international Scrum team, focusing on automation solutions for foreign telecom operators."
-    },
-    {
-      "name": "Digia",
-      "position": "Software Developer",
-      "startDate": "2019-04-30",
-      "endDate": "2020-05-31",
-      "highlights": [
-        "Led version control and CI/CD tool migration",
-        "Developed REST APIs for member registry software",
-        "Implemented end-to-end tests to improve quality assurance"
-      ],
-      "summary": "A backend-focused role with a DevOps component. Migrated version control from SVN to Git, and CI/CD from Bamboo to GitLab CI/CD. Created documentation and guides to support onboarding across multiple teams with minimal downtime."
-    },
-    {
-      "name": "Hintaseuranta",
-      "position": "Tekninen Tuoteylläpitäjä",
-      "startDate": "2015-09-30",
-      "endDate": "2020-05-31",
-      "highlights": [
-        "Developed web scrapers to retrieve customer pricing data, helping users find the best product prices",
-        "Created rules for automatic product categorization to reduce manual labor"
-      ],
-      "summary": "Worked as a solo developer, independently solving challenges. Tasks varied based on whether the client provided product data or if it needed to be scraped."
-    },
-    {
-      "name": "Tilastokeskus - Statistics Finland",
-      "position": "Applications Analyst",
-      "startDate": "2018-06-30",
-      "endDate": "2019-04-30",
-      "highlights": [
-        "Data",
-        ".NET Framework",
-        "Streamlined data intake pipelines using microservices to handle increased load efficiently",
-        "Redesigned and implemented a geolocation database in collaboration with experts"
-      ],
-      "summary": "Worked on internal projects supporting statistical units. Mostly developed independently, with input from Scrum teams including specialists and architects who provided requirements."
-    },
-    {
-      "name": "Arter Oy",
-      "position": "Software Developer",
-      "startDate": "2017-08-31",
-      "endDate": "2018-06-30",
-      "highlights": [
-        "Java",
-        "React",
-        "Resolved performance bottlenecks affecting high-usage customers, resulting in significant improvements"
-      ],
-      "summary": "Worked as a full stack developer in an in-house ERP software team. Collaborated closely with technical support to promptly resolve customer issues, ensuring high satisfaction."
-    },
-    {
-      "name": "Luottokunta (Nets)",
-      "position": "Järjestelmäasiantuntija",
-      "startDate": "2012-02-28",
-      "endDate": "2012-09-30",
-      "highlights": [
-        "Created a wallboard solution to aggregate and display data from various systems",
-        "Enhanced testing tools for the payment terminal team, enabling replay of real transactions without manual work",
-        "Developed internal solutions to streamline processes and improve team performance"
-      ],
-      "summary": "Hired from school to join a payment terminal Scrum team. Took on tasks that brought high value but lacked time allocation within the team."
+    "work": [
+        {
+            "name": "SD Worx Finland Oy",
+            "position": "Software Developer",
+            "startDate": "2026-06-17",
+            "highlights": [],
+            "summary": ""
+        },
+        {
+            "name": "Suomalainen Kirjakauppa Oy",
+            "position": "Software Developer",
+            "startDate": "2025-11-03",
+            "highlights": [
+                "Developed internal tooling and environments for Suomalainen Book Store",
+                "Backend development using .NET stack in Azure and UpCloud"
+            ],
+            "summary": "Backend development with cloud and CI/CD"
+        },
+        {
+            "name": "Compile Oy",
+            "position": "Software Specialist",
+            "startDate": "2021-11-30",
+            "endDate": "2025-02-28",
+            "highlights": [
+                "Developed and maintained HR software for a client, using .NET technologies",
+                "Improved the codebase for readability and ease of feature implementation",
+                "Created internal tools for visualizing consultant projects, using React and GraphQL"
+            ],
+            "summary": "Worked on both internal and client projects. Client projects were primarily backend-focused, with occasional DevOps work using Jenkins. Internal projects involved frontend development and deploying solutions to AWS."
+        },
+        {
+            "name": "Digia",
+            "position": "System Specialist",
+            "startDate": "2021-01-31",
+            "endDate": "2021-11-30",
+            "highlights": [
+                "Java",
+                "Docker",
+                "Implemented CI/CD tools for testing, versioning, and deployment, enhancing team productivity",
+                "Improved team efficiency by eliminating heavy local environments that relied on virtual machines"
+            ],
+            "summary": "Worked in a Scrum team, primarily focused on enhancing the work of other teams by implementing automation solutions and improving slow development practices."
+        },
+        {
+            "name": "Elisa Automate",
+            "position": "Software Developer",
+            "startDate": "2020-06-30",
+            "endDate": "2020-11-30",
+            "highlights": [
+                "Kotlin",
+                "React",
+                "Developed frontend and backend features for network operations center automations, reducing manual tasks and increasing efficiency"
+            ],
+            "summary": "Part of an international Scrum team, focusing on automation solutions for foreign telecom operators."
+        },
+        {
+            "name": "Digia",
+            "position": "Software Developer",
+            "startDate": "2019-04-30",
+            "endDate": "2020-05-31",
+            "highlights": [
+                "Led version control and CI/CD tool migration",
+                "Developed REST APIs for member registry software",
+                "Implemented end-to-end tests to improve quality assurance"
+            ],
+            "summary": "A backend-focused role with a DevOps component. Migrated version control from SVN to Git, and CI/CD from Bamboo to GitLab CI/CD. Created documentation and guides to support onboarding across multiple teams with minimal downtime."
+        },
+        {
+            "name": "Hintaseuranta",
+            "position": "Tekninen Tuoteylläpitäjä",
+            "startDate": "2015-09-30",
+            "endDate": "2020-05-31",
+            "highlights": [
+                "Developed web scrapers to retrieve customer pricing data, helping users find the best product prices",
+                "Created rules for automatic product categorization to reduce manual labor"
+            ],
+            "summary": "Worked as a solo developer, independently solving challenges. Tasks varied based on whether the client provided product data or if it needed to be scraped."
+        },
+        {
+            "name": "Tilastokeskus - Statistics Finland",
+            "position": "Applications Analyst",
+            "startDate": "2018-06-30",
+            "endDate": "2019-04-30",
+            "highlights": [
+                "Data",
+                ".NET Framework",
+                "Streamlined data intake pipelines using microservices to handle increased load efficiently",
+                "Redesigned and implemented a geolocation database in collaboration with experts"
+            ],
+            "summary": "Worked on internal projects supporting statistical units. Mostly developed independently, with input from Scrum teams including specialists and architects who provided requirements."
+        },
+        {
+            "name": "Arter Oy",
+            "position": "Software Developer",
+            "startDate": "2017-08-31",
+            "endDate": "2018-06-30",
+            "highlights": [
+                "Java",
+                "React",
+                "Resolved performance bottlenecks affecting high-usage customers, resulting in significant improvements"
+            ],
+            "summary": "Worked as a full stack developer in an in-house ERP software team. Collaborated closely with technical support to promptly resolve customer issues, ensuring high satisfaction."
+        },
+        {
+            "name": "Luottokunta (Nets)",
+            "position": "Järjestelmäasiantuntija",
+            "startDate": "2012-02-28",
+            "endDate": "2012-09-30",
+            "highlights": [
+                "Created a wallboard solution to aggregate and display data from various systems",
+                "Enhanced testing tools for the payment terminal team, enabling replay of real transactions without manual work",
+                "Developed internal solutions to streamline processes and improve team performance"
+            ],
+            "summary": "Hired from school to join a payment terminal Scrum team. Took on tasks that brought high value but lacked time allocation within the team."
+        }
+    ],
+    "volunteer": [],
+    "education": [
+        {
+            "institution": "Haaga-Helia University of Applied Sciences",
+            "area": "Business Information Technology",
+            "studyType": "Bachelor’s Degree",
+            "startDate": "2013-12-31",
+            "endDate": "2019-12-31",
+            "score": "",
+            "courses": []
+        },
+        {
+            "institution": "Suomen Liikemiesten Kauppaopisto",
+            "area": "Business Information Technology",
+            "studyType": "Vocational Qualification",
+            "startDate": "2009-12-31",
+            "endDate": "2012-12-31",
+            "score": "",
+            "courses": []
+        }
+    ],
+    "awards": [],
+    "certificates": [
+        {
+            "name": "Microsoft Certified Professional",
+            "issuer": "Microsoft",
+            "startDate": "2018-12-31"
+        },
+        {
+            "name": "Exam 483: Programming in C#",
+            "issuer": "Microsoft",
+            "startDate": "2018-12-31",
+            "url": "https://www.youracclaim.com/badges/23aa0f1a-d649-4e9d-91df-5a5688f732ba/linked_in_profile"
+        },
+        {
+            "name": "Gitlab Certified Associate",
+            "issuer": "GitLab",
+            "startDate": "2021-04-30",
+            "url": "https://badgr.com/public/assertions/Z9WtxWsbR0KpyRxszY124Q"
+        },
+        {
+            "name": "Web Security Basics",
+            "issuer": "DevSecLab",
+            "endDate": "2026-02-28",
+            "startDate": "2024-02-28",
+            "url": "https://eu.credential.net/96e9f6aa-c144-4786-b59d-a613e3c24ebe"
+        }
+    ],
+    "publications": [],
+    "skills": [
+        {
+            "name": "Backend",
+            "level": "Senior",
+            "keywords": [
+                "C#",
+                ".NET Framework",
+                "Entity Framework",
+                "Java",
+                "Spring",
+                "Hibernate",
+                "SQL",
+                "Docker",
+                "Python",
+                "Flask",
+                "FastAPI"
+            ]
+        },
+        {
+            "name": "DevOps",
+            "level": "Senior",
+            "keywords": [
+                "GitHub Actions",
+                "GitLab CI",
+                "Kubernetes",
+                "Linux",
+                "AWS",
+                "Azure",
+                "UpCloud",
+                "Infrastructure as Code",
+                "Git"
+            ]
+        },
+        {
+            "name": "Frontend",
+            "level": "Intermediate",
+            "keywords": [
+                "React",
+                "TypeScript",
+                "JavaScript"
+            ]
+        }
+    ],
+    "languages": [
+        {
+            "fluency": "Full Professional",
+            "language": "English"
+        },
+        {
+            "fluency": "Native Speaker",
+            "language": "Finnish"
+        }
+    ],
+    "interests": [],
+    "references": [],
+    "projects": [],
+    "meta": {
+        "version": "v1.0.0",
+        "canonical": "https://github.com/jsonresume/resume-schema/blob/v1.0.0/schema.json"
     }
-  ],
-  "volunteer": [],
-  "education": [
-    {
-      "institution": "Haaga-Helia University of Applied Sciences",
-      "area": "Business Information Technology",
-      "studyType": "Bachelor’s Degree",
-      "startDate": "2013-12-31",
-      "endDate": "2019-12-31",
-      "score": "",
-      "courses": []
-    },
-    {
-      "institution": "Suomen Liikemiesten Kauppaopisto",
-      "area": "Business Information Technology",
-      "studyType": "Vocational Qualification",
-      "startDate": "2009-12-31",
-      "endDate": "2012-12-31",
-      "score": "",
-      "courses": []
-    }
-  ],
-  "awards": [],
-  "certificates": [
-    {
-      "name": "Microsoft Certified Professional",
-      "issuer": "Microsoft",
-      "startDate": "2018-12-31"
-    },
-    {
-      "name": "Exam 483: Programming in C#",
-      "issuer": "Microsoft",
-      "startDate": "2018-12-31",
-      "url": "https://www.youracclaim.com/badges/23aa0f1a-d649-4e9d-91df-5a5688f732ba/linked_in_profile"
-    },
-    {
-      "name": "Gitlab Certified Associate",
-      "issuer": "GitLab",
-      "startDate": "2021-04-30",
-      "url": "https://badgr.com/public/assertions/Z9WtxWsbR0KpyRxszY124Q"
-    },
-    {
-      "name": "Web Security Basics",
-      "issuer": "DevSecLab",
-      "endDate": "2026-02-28",
-      "startDate": "2024-02-28",
-      "url": "https://eu.credential.net/96e9f6aa-c144-4786-b59d-a613e3c24ebe"
-    }
-  ],
-  "publications": [],
-  "skills": [
-    {
-      "name": "Backend",
-      "level": "Senior",
-      "keywords": [
-        "C#",
-        ".NET Framework",
-        "Entity Framework",
-        "Java",
-        "Spring",
-        "Hibernate",
-        "SQL",
-        "Docker",
-        "Python",
-        "Flask",
-        "FastAPI"
-      ]
-    },
-    {
-      "name": "DevOps",
-      "level": "Senior",
-      "keywords": [
-        "GitHub Actions",
-        "GitLab CI",
-        "Kubernetes",
-        "Linux",
-        "AWS",
-        "Azure",
-        "UpCloud",
-        "Infrastructure as Code",
-        "Git"
-      ]
-    },
-    {
-      "name": "Frontend",
-      "level": "Intermediate",
-      "keywords": [
-        "React",
-        "TypeScript",
-        "JavaScript"
-      ]
-    }
-  ],
-  "languages": [
-    {
-      "fluency": "Full Professional",
-      "language": "English"
-    },
-    {
-      "fluency": "Native Speaker",
-      "language": "Finnish"
-    }
-  ],
-  "interests": [],
-  "references": [],
-  "projects": [],
-  "meta": {
-    "version": "v1.0.0",
-    "canonical": "https://github.com/jsonresume/resume-schema/blob/v1.0.0/schema.json"
-  }
 }
