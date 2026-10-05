@@ -30,13 +30,17 @@
             "name": "SD Worx Finland Oy",
             "position": "Software Developer",
             "startDate": "2026-06-17",
-            "highlights": [],
-            "summary": ""
+            "highlights": [
+                "Working with SQL databases",
+                "Development for .NET web applications"
+            ],
+            "summary": "Developing tools and data pipelines for payroll and invoice management."
         },
         {
             "name": "Suomalainen Kirjakauppa Oy",
             "position": "Software Developer",
             "startDate": "2025-11-03",
+            "endDate" : "2026-04-20",
             "highlights": [
                 "Developed internal tooling and environments for Suomalainen Book Store",
                 "Backend development using .NET stack in Azure and UpCloud"
