@@ -29,8 +29,8 @@
         {
             "name": "SD Worx Finland Oy",
             "position": "Software Developer",
-            "startDate": "2026-06-17",
-            "endDate": "2026-10-30",
+            "startDate": "2026-06",
+            "endDate": "2026-10",
             "highlights": [
                 "Working with SQL databases",
                 "Development for .NET web applications"
@@ -40,8 +40,8 @@
         {
             "name": "Suomalainen Kirjakauppa Oy",
             "position": "Software Developer",
-            "startDate": "2025-11-03",
-            "endDate": "2026-04-20",
+            "startDate": "2025-11",
+            "endDate": "2026-04",
             "highlights": [
                 "Developed internal tooling and environments for Suomalainen Book Store",
                 "Backend development using .NET stack in Azure and UpCloud"
@@ -51,8 +51,8 @@
         {
             "name": "Compile Oy",
             "position": "Software Specialist",
-            "startDate": "2021-11-30",
-            "endDate": "2025-02-28",
+            "startDate": "2021-11",
+            "endDate": "2025-02",
             "highlights": [
                 "Developed and maintained HR software for a client, using .NET technologies",
                 "Improved the codebase for readability and ease of feature implementation",
@@ -63,8 +63,8 @@
         {
             "name": "Digia",
             "position": "System Specialist",
-            "startDate": "2021-01-31",
-            "endDate": "2021-11-30",
+            "startDate": "2021-01",
+            "endDate": "2021-11",
             "highlights": [
                 "Java development",
                 "Docker containerization",
@@ -76,8 +76,8 @@
         {
             "name": "Elisa Automate",
             "position": "Software Developer",
-            "startDate": "2020-06-30",
-            "endDate": "2020-11-30",
+            "startDate": "2020-06",
+            "endDate": "2020-11",
             "highlights": [
                 "Kotlin development",
                 "React development",
@@ -88,8 +88,8 @@
         {
             "name": "Digia",
             "position": "Software Developer",
-            "startDate": "2019-04-30",
-            "endDate": "2020-05-31",
+            "startDate": "2019-04",
+            "endDate": "2020-05",
             "highlights": [
                 "Led version control and CI/CD tool migration",
                 "Developed REST APIs for member registry software",
@@ -100,8 +100,8 @@
         {
             "name": "Hintaseuranta",
             "position": "Tekninen tuoteylläpitäjä",
-            "startDate": "2015-09-30",
-            "endDate": "2020-05-31",
+            "startDate": "2015-09",
+            "endDate": "2020-05",
             "highlights": [
                 "Developed web scrapers to retrieve customer pricing data, helping users find the best product prices",
                 "Created rules for automatic product categorization to reduce manual labor"
@@ -111,8 +111,8 @@
         {
             "name": "Tilastokeskus - Statistics Finland",
             "position": "Applications Analyst",
-            "startDate": "2018-06-30",
-            "endDate": "2019-04-30",
+            "startDate": "2018-06",
+            "endDate": "2019-04",
             "highlights": [
                 "Data management",
                 ".NET Framework development",
@@ -124,8 +124,8 @@
         {
             "name": "Arter Oy",
             "position": "Software Developer",
-            "startDate": "2017-08-31",
-            "endDate": "2018-06-30",
+            "startDate": "2017-08",
+            "endDate": "2018-06",
             "highlights": [
                 "Java development",
                 "React development",
@@ -136,8 +136,8 @@
         {
             "name": "Luottokunta (Nets)",
             "position": "Järjestelmäasiantuntija",
-            "startDate": "2012-02-28",
-            "endDate": "2012-09-30",
+            "startDate": "2012-02",
+            "endDate": "2012-09",
             "highlights": [
                 "Created a wallboard solution to aggregate and display data from various systems",
                 "Enhanced testing tools for the payment terminal team, enabling replay of real transactions without manual work",
@@ -152,8 +152,8 @@
             "institution": "Haaga-Helia University of Applied Sciences",
             "area": "Business Information Technology",
             "studyType": "Bachelor’s Degree",
-            "startDate": "2013-12-31",
-            "endDate": "2019-12-31",
+            "startDate": "2013-12",
+            "endDate": "2019-12",
             "score": "",
             "courses": []
         },
@@ -161,8 +161,8 @@
             "institution": "Suomen Liikemiesten Kauppaopisto",
             "area": "Business Information Technology",
             "studyType": "Vocational Qualification",
-            "startDate": "2009-12-31",
-            "endDate": "2012-12-31",
+            "startDate": "2009-12",
+            "endDate": "2012-12",
             "score": "",
             "courses": []
         }
@@ -171,26 +171,24 @@
     "certificates": [
         {
             "name": "Microsoft Certified Professional",
-            "issuer": "Microsoft",
-            "startDate": "2018-12-31"
+            "issuer": "Microsoft"
         },
         {
             "name": "Exam 483: Programming in C#",
             "issuer": "Microsoft",
-            "startDate": "2018-12-31",
             "url": "https://www.youracclaim.com/badges/23aa0f1a-d649-4e9d-91df-5a5688f732ba/linked_in_profile"
         },
         {
             "name": "Gitlab Certified Associate",
             "issuer": "GitLab",
-            "startDate": "2021-04-30",
+            "startDate": "2021-04",
             "url": "https://badgr.com/public/assertions/Z9WtxWsbR0KpyRxszY124Q"
         },
         {
             "name": "Web Security Basics",
             "issuer": "DevSecLab",
-            "endDate": "2026-02-28",
-            "startDate": "2024-02-28",
+            "endDate": "2026-02",
+            "startDate": "2024-02",
             "url": "https://eu.credential.net/96e9f6aa-c144-4786-b59d-a613e3c24ebe"
         }
     ],
