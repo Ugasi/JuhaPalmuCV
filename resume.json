@@ -41,7 +41,7 @@
             "name": "Suomalainen Kirjakauppa Oy",
             "position": "Software Developer",
             "startDate": "2025-11-03",
-            "endDate" : "2026-04-20",
+            "endDate": "2026-04-20",
             "highlights": [
                 "Developed internal tooling and environments for Suomalainen Book Store",
                 "Backend development using .NET stack in Azure and UpCloud"
@@ -99,7 +99,7 @@
         },
         {
             "name": "Hintaseuranta",
-            "position": "Tekninen Tuoteylläpitäjä",
+            "position": "Tekninen tuoteylläpitäjä",
             "startDate": "2015-09-30",
             "endDate": "2020-05-31",
             "highlights": [
