@@ -66,8 +66,8 @@
             "startDate": "2021-01-31",
             "endDate": "2021-11-30",
             "highlights": [
-                "Java",
-                "Docker",
+                "Java development",
+                "Docker containerization",
                 "Implemented CI/CD tools for testing, versioning, and deployment, enhancing team productivity",
                 "Improved team efficiency by eliminating heavy local environments that relied on virtual machines"
             ],
@@ -79,8 +79,8 @@
             "startDate": "2020-06-30",
             "endDate": "2020-11-30",
             "highlights": [
-                "Kotlin",
-                "React",
+                "Kotlin development",
+                "React development",
                 "Developed frontend and backend features for network operations center automations, reducing manual tasks and increasing efficiency"
             ],
             "summary": "Part of an international Scrum team, focusing on automation solutions for foreign telecom operators."
@@ -114,8 +114,8 @@
             "startDate": "2018-06-30",
             "endDate": "2019-04-30",
             "highlights": [
-                "Data",
-                ".NET Framework",
+                "Data management",
+                ".NET Framework development",
                 "Streamlined data intake pipelines using microservices to handle increased load efficiently",
                 "Redesigned and implemented a geolocation database in collaboration with experts"
             ],
@@ -127,11 +127,11 @@
             "startDate": "2017-08-31",
             "endDate": "2018-06-30",
             "highlights": [
-                "Java",
-                "React",
+                "Java development",
+                "React development",
                 "Resolved performance bottlenecks affecting high-usage customers, resulting in significant improvements"
             ],
-            "summary": "Worked as a full stack developer in an in-house ERP software team. Collaborated closely with technical support to promptly resolve customer issues, ensuring high satisfaction."
+            "summary": "Worked as a full-stack developer in an in-house ERP software team. Collaborated closely with technical support to promptly resolve customer issues, ensuring high satisfaction."
         },
         {
             "name": "Luottokunta (Nets)",
