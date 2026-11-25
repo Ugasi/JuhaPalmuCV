@@ -236,6 +236,18 @@
                 "TypeScript",
                 "JavaScript"
             ]
+        },
+        {
+            "name": "AI & Agents",
+            "level": "Intermediate",
+            "keywords": [
+                "Pi Coding Agent",
+                "MCP",
+                "Model Context Protocol",
+                "Tool Calling",
+                "Local LLM Deployment",
+                "llama.cpp"
+            ]
         }
     ],
     "languages": [
